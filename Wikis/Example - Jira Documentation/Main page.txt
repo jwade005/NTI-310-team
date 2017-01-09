@@ -1,0 +1,23 @@
+https://confluence.atlassian.com/migration/_/com.atlassian.plugins.adg.brand.theme.adgbrand:migration-hub-theme/1481047698000/images/product-jira-blue.svg
+
+^^^^^image to be added to documentation ^^^^^
+
+What does JIRA mean?
+
+Like all good names in the software industry, it started as an in-house code name.
+We originally used Bugzilla for bug tracking and the developers in the office started calling it by the Japanese name for Godzilla, Gojira (the original black-and-white Japanese Godzilla films are also office favorites). As we developed our own bug tracker, and then it became an issue tracker, the name stuck, but the Go got dropped - hence JIRA!
+Further investigation into the name has revealed that Gorira is Japanese for "gorilla", whilst Kujira is Japanese for "whale". So Gojira is roughly translated to mean "gorilla the size of a whale"! (Thanks to yusuke_arclamp — Oct 2002)
+For those who care - it sounds best if you yell it loudly, as though charging into battle. C'mon - try it!
+
+About:
+JIRA is a tool developed by Australian Company Atlassian. It is used for bug tracking, issue tracking, and project management. The name "JIRA" is actually inherited from the Japanese word "Gojira" which means "Godzilla".
+
+The basic use of this tool is to track issues, and bugs related to your software and mobile apps. It is also used for project management. The JIRA dashboard consists of many useful functions and features which make handling of issues easy.
+
+Sources:
+
+https://confluence.atlassian.com/jira064/jira-faq-720417095.html
+
+http://www.guru99.com/jira-tutorial-a-complete-guide-for-beginners.html
+
+

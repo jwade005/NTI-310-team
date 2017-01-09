@@ -1,0 +1,22 @@
+Security Updates:
+
+https://www.atlassian.com/trust/policies/security-advisory-publishing-policy
+
+Get notified when new features are released:
+
+https://www.atlassian.com/software/jira/whats-new/rss.xml
+
+Issue tracking:
+
+https://jira.atlassian.com/browse/JRA
+
+Getting answers from the community:
+
+https://answers.atlassian.com
+
+
+Email updates:
+
+https://my.atlassian.com/email
+
+Cody Gagnon is currently responsible for communicating updates on Jira to the team.
