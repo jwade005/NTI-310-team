@@ -1,0 +1,13 @@
+# Django Tutorials on the Web ![](https://code.djangoproject.com/raw-attachment/ticket/24953/django-hexbin.png)
+
+## Writing your first Django App:
+
+### This is a pretty simple step-by-step tutorial from the Django website to create a polling app project. (We did this one in class.) 
+
+https://docs.djangoproject.com/en/1.10/intro/tutorial01/
+
+## "TaskBuster Django Tutorial"
+
+### This is a tutorial by Marina Mele. It is a tutorial, but also a checklist which can be referred to for every Django project to make sure you accomplish all of the tasks to get up and running. 
+
+http://www.marinamele.com/taskbuster-django-tutorial
