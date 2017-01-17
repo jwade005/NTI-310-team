@@ -5,3 +5,5 @@ Please use the folder Wikis to add your information; I'll then merge that info i
 For an example, please see my documentation under the Wikis folder.
 
 Thanks!
+
+![](https://africacheck.org/wp-content/uploads/2012/08/Someone-is-wrong-on-internet.png)
